@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0ec52cfc.chunk.css",
+    "main.js": "/static/js/main.232d9e48.chunk.js",
+    "main.js.map": "/static/js/main.232d9e48.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b1d06323.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b1d06323.js.map",
+    "static/css/2.289e503f.chunk.css": "/static/css/2.289e503f.chunk.css",
+    "static/js/2.1cfe2517.chunk.js": "/static/js/2.1cfe2517.chunk.js",
+    "static/js/2.1cfe2517.chunk.js.map": "/static/js/2.1cfe2517.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.289e503f.chunk.css.map": "/static/css/2.289e503f.chunk.css.map",
+    "static/css/main.0ec52cfc.chunk.css.map": "/static/css/main.0ec52cfc.chunk.css.map",
+    "static/js/2.1cfe2517.chunk.js.LICENSE.txt": "/static/js/2.1cfe2517.chunk.js.LICENSE.txt",
+    "static/media/074898427d3b5db82e35bd30f31a0ce4c5d7904e.92b0d19e.jpg": "/static/media/074898427d3b5db82e35bd30f31a0ce4c5d7904e.92b0d19e.jpg",
+    "static/media/12a10c50a31893817231ad451d4f64b5.5cd206a6.jpg@880w_388h_1c_95q": "/static/media/12a10c50a31893817231ad451d4f64b5.5cd206a6.jpg@880w_388h_1c_95q",
+    "static/media/150ad6dbaca396267e36f44b6126a24bccd3c1f3.jpg@412w_232h_1c.fa2ba397.jpg": "/static/media/150ad6dbaca396267e36f44b6126a24bccd3c1f3.jpg@412w_232h_1c.fa2ba397.jpg",
+    "static/media/84c55eb7f8551b27db5bebcc38d17502.b062862b.jpg@412w_232h_1c": "/static/media/84c55eb7f8551b27db5bebcc38d17502.b062862b.jpg@412w_232h_1c",
+    "static/media/9208c5abc9905c127eda948eb863b80a.488e25e5.jpg@880w_388h_1c_95q": "/static/media/9208c5abc9905c127eda948eb863b80a.488e25e5.jpg@880w_388h_1c_95q",
+    "static/media/992e600bc991f5f6c3b5b90d6f6c0eb061eacfeb.1bb0bfa0.jpg@880w_388h_1c_95q": "/static/media/992e600bc991f5f6c3b5b90d6f6c0eb061eacfeb.1bb0bfa0.jpg@880w_388h_1c_95q",
+    "static/media/index.css": "/static/media/app-download.89b1671e.png",
+    "static/media/background.da66bdfa.png": "/static/media/background.da66bdfa.png",
+    "static/media/e45a95281c60c035cbc29fe9c0f95569d3fff2f8.e7370139.png@880w_388h_1c_95q": "/static/media/e45a95281c60c035cbc29fe9c0f95569d3fff2f8.e7370139.png@880w_388h_1c_95q",
+    "static/media/icon.f52a3f91.webp": "/static/media/icon.f52a3f91.webp",
+    "static/media/logo.3d8521b9.png": "/static/media/logo.3d8521b9.png",
+    "static/media/风筝.8b0a6713.png": "/static/media/风筝.8b0a6713.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1d06323.js",
+    "static/css/2.289e503f.chunk.css",
+    "static/js/2.1cfe2517.chunk.js",
+    "static/css/main.0ec52cfc.chunk.css",
+    "static/js/main.232d9e48.chunk.js"
+  ]
+}
